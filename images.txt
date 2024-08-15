@@ -2,3 +2,4 @@ nginx
 redis
 centos
 python:3.10.0
+nginx:stable
